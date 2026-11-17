@@ -8,4 +8,12 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}¨
+.paprika {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.text-center{
+    padding-bottom:24px ;
 }
